@@ -1,2 +1,9 @@
 pip install python-jose[cryptography]
 pip install slowapi
+spacy
+ollama
+sentence-transformers
+qdrant-client
+accelerate
+torch
+pydantic
